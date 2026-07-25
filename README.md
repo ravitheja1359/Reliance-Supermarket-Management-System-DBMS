@@ -47,6 +47,9 @@ The database consists of **9 entities**:
 The design follows normalization principles and enforces relationships using primary keys, foreign keys, unique constraints, and check constraints.
 
 ---
+### Entity Relationship Diagram
+
+![ER Diagram](Images/ER_Diagram.png)
 
 ## Project Structure
 
