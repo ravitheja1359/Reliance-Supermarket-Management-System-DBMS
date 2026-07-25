@@ -49,7 +49,7 @@ The design follows normalization principles and enforces relationships using pri
 ---
 ### Entity Relationship Diagram
 
-![ER Diagram](Images/ER_Diagram.png)
+![ER Diagram](Images/ER_Diagram.jpeg)
 
 ## Project Structure
 
